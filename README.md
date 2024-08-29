@@ -7,7 +7,7 @@ Ali Bazkar
 2) you started buying bitcoin on 'open' every saturday
 3) compare/analyze investment depending on sells on 'High' or 'Close'
 4) eventually drawing their plots
-
+   
 **Condition :** for-loops are not allowed!
 
 ### Used Libraries :
