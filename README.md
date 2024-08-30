@@ -1,5 +1,5 @@
 # MFT Data Analysis Project
-#### ```Bitcoin Investment Analysis```
+#### ```Bitcoin Investment Plot```
 
 
 ### Project Explaination :
